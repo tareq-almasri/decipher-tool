@@ -1,6 +1,6 @@
 {
-  "homepage": "http://tareq-almasri.github.io/encryption-tool/",
-  "name": "encryption-tool",
+  "homepage": "http://tareq-almasri.github.io/decipher-tool/",
+  "name": "decipher-tool",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
